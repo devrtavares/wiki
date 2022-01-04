@@ -1,0 +1,23 @@
+### 
+
+<sub>[:arrow_upper_left:](readme.md) Npm<sub>
+
+- [npm-install](https://docs.npmjs.com/cli/v8/commands/npm-install), Sinopse:
+    ```
+    npm install (with no args, in package dir)
+    npm install [<@scope>/]<name>
+    npm install [<@scope>/]<name>@<tag>
+    npm install [<@scope>/]<name>@<version>
+    npm install [<@scope>/]<name>@<version range>
+    npm install <alias>@npm:<name>
+    npm install <git-host>:<git-user>/<repo-name>
+    npm install <git repo url>
+    npm install <tarball file>
+    npm install <tarball url>
+    npm install <folder>
+
+    aliases: npm i, npm add
+    common options: [-P|--save-prod|-D|--save-dev|-O|--save-optional|--save-peer] [-E|--save-exact] [-B|--save-bundle] [--no-save] [--dry-run]
+    ```
+
+    
