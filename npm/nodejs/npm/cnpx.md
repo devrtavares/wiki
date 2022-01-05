@@ -1,6 +1,6 @@
 #
 
-<sub>[:arrow_upper_left:](readme.md) Npm<sub>
+<sub>[:arrow_upper_left: Npm](readme.md)<sub>
 
 O NPX busca a biblioteca na Registry do NPM, instala em uma pasta temporária, executa o comando e depois remove a biblioteca da máquina, ela não fica na node_modules global.
 

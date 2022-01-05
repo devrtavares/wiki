@@ -1,6 +1,6 @@
 ## *Comandos locais*
 
-<sub>[:arrow_upper_left:](readme.md)  <sub>
+<sub>[:arrow_upper_left: Git](readme.md)  <sub>
 
 ### `git add .`<br />`git add [path]`
 &nbsp;&nbsp;&nbsp;&nbsp;incluir arquivos alterados para versionamento<br/>

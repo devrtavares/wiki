@@ -1,6 +1,6 @@
 ### 
 
-<sub>[:arrow_upper_left:](readme.md) Npm<sub>
+<sub>[:arrow_upper_left: Npm](readme.md)<sub>
 
 - [npm-install](https://docs.npmjs.com/cli/v8/commands/npm-install), Sinopse:
     ```

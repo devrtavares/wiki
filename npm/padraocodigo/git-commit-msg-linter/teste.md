@@ -1,6 +1,6 @@
 #
 
-<sub>[:arrow_upper_left:](readme.md)  <sub>
+<sub>[:arrow_upper_left: git-commit-msg-linter](readme.md)  <sub>
 
 *Agora com o modulo instalado podemos testar a validação de formato para mensagens de commit*
 

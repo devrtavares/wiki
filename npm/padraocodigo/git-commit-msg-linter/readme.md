@@ -1,10 +1,11 @@
-# [npmjs.com/pack/git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter) <image src="../../../imgs/git-icon.svg" height="20" width="50"/> \| [*?*](about.md) 
-<sub>[:arrow_upper_left:](../../readme.md)  <sub>
+### git-commit-msg-linter \| [*?*](about.md) 
+<sub>[:arrow_upper_left: Anotações](../readme.md)  <sub>
 
-### O npm oferece módulos de controle de padrão de commit, a exemplo:
+[npmjs.com](https://www.npmjs.com/package/git-commit-msg-linter)
+instalação de controle de versionamento local para a aplicação:
 
 ```
 npm i -D git-commit-msg-linter
 ```
 
-### [Teste](teste.md)
+- [*Teste*](teste.md)

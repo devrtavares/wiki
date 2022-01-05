@@ -1,6 +1,6 @@
-# [docker](https://www.docker.com/) <image src="../../../imgs/docker-ico.png" height="50" width="50"/> | [?](about.md) 
+# Docker
 
-<sub>[:arrow_upper_left:](../../../README.md)<sub> 
+<sub>[:arrow_upper_left: Wiki](../../../README.md) | [*Web page :: download*](https://www.docker.com/) | [sobre o docker](about.md) <sub> 
 
 - [Instalação](install.md)
 
@@ -10,4 +10,10 @@
 
 ## Comandos
 
-1. [Run](run.md)
+[run](run.md)
+
+<sup></sub>
+---
+
+<image src="../../../imgs/docker-ico.png" height="110" width="120"/>
+

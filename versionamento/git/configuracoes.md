@@ -1,6 +1,6 @@
 ## *Configurações*
 
-<sub>[:arrow_upper_left:](readme.md)<sub>
+<sub>[:arrow_upper_left: Git](readme.md)<sub>
 
 ### *Terminal de comandos*
 

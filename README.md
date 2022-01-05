@@ -1,49 +1,49 @@
 
 - Plataforma de desenvolvimento 
 
-    [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) > [anotações](utils/ide/readme.md)
+    [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) > [notas](utils/ide/readme.md)
 
 
 - Utilidades
 
 |  |  |
 |--|--|
-| [git-scm](https://git-scm.com/) \| [anotações](versionamento/git/readme.md) | Versionamento |
-| [docker](https://www.docker.com/) \| [anotações](utils/vm/docker/readme.md) | Virtual Machine |
+| [git-scm](https://git-scm.com/) \| [notas](versionamento/git/readme.md) | Versionamento |
+| [docker](https://www.docker.com/) \| [notas](utils/vm/docker/readme.md) | Virtual Machine |
 
 - Linguagem de programação & backend
 
 |  |  |
 |--|--|
-|[nodejs.org](https://nodejs.org/en/) \| [anotações](backend/javascript/nodejs/readme.md) | Javascript |
-|[Spring Boot]|--|
+| [nodejs](npm/readme.md) | javascript |
+| [springboot](springboot/readme.md)|--|
 
 - Interpretação de navegador & frontend
 
 |  |  |
 |--|--|
-|[Html 5]()|--|
-|[CSS]()|--|
-|[XAML]()|--|
+|html5|--|
+|css]|--|
+|xaml|--|
 
 
 - Integração
 
 |  |  |  |
 |--|--|--|
-| [--](--) > [--](--) | -- | Tools |
+| [--](--) | -- | tools |
 
 - Banco de dados
 
 |  |  |  |
 |--|--|--|
-| [--](--) > [--](--) | -- | Tools |
+| [--](--) | -- | tools |
 
 - Sistemas operacionais
 
 |  |  |  |
 |--|--|--|
-| [widows]() | -- | -- |
+| widows | -- | -- |
 
 
 <sub><sub>

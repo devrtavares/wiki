@@ -1,6 +1,6 @@
-#
+# Comando : run
 
-<sub>[:arrow_upper_left:](readme.md) docker <sub>
+<sub>[:arrow_upper_left: docker](readme.md)  <sub>
 
 É um comando resultante da concatenação(união) de 4 outros comandos pull, create, start, exec para um detemrinado container.
 

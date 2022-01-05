@@ -1,5 +1,5 @@
-
-<sub>[:arrow_upper_left:](readme.md) Git <sub>
+# Git init
+<sub>[:arrow_upper_left: Git](readme.md)  <sub>
 
 Após instalar o git, para iniciar o controle de versão basta seguir ao diretório dos arquivos a serem controlados e executar:
 

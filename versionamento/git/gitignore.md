@@ -1,6 +1,6 @@
-## *.gitignore*
+## .gitignore
 
-<sub>[:arrow_upper_left:](readme.md)<sub>
+<sub>[:arrow_upper_left: Git](readme.md)<sub>
 
 ao trabalhar com git, nem todos os arquivos precisam ser controlados por versão, como por exemplo módulos de código compartilhado, podemos mapear esses arquivos através de um .gitignore
 
@@ -15,7 +15,7 @@ ao trabalhar com git, nem todos os arquivos precisam ser controlados por versão
     #### Exemplo 1: Terminal do Windows
     >Através do therminal, na pasta corrente do projeto, podemos executar o comando
     >```
-    >cd /d "Desktop/clean-node-api"
+    >cd /d "Desktop/novo-modulo"
     >code .gitignore
     >```
     >que ira incluir o arquivo no projeto e o deixando pronto para edição no visual studio code ou vim, vamos incluir uma linha com o valor "**node_modules"** e salvar o arquivo.
