@@ -4,27 +4,26 @@
 
 Frameworks  para requisições web
 
-- Back-end
-
-| Pacote | 
+| Pacote \| Framework | 
 |--|
-|[**expressjs**.com](https://expressjs.com/) \| [npmjs.com/express](https://www.npmjs.com/package/express) \| [notas](express/readme.md)|
+|[**expressjs**.com](https://expressjs.com/) \| [npmjs](https://www.npmjs.com/package/express) \| [notas](express/readme.md)|
 fastify|
 hapi|
 koa|
 restify|
-
-| Pacote | 
 |--|
-|[**pt-br.reactjs**.org](https://pt-br.reactjs.org/) \| [npmjs.com/react-native](https://www.npmjs.com/package/reactjs) \| notas |
-|[**nextjs**.org](https://nextjs.org/) \| [npmjs.com/nextjs](https://www.npmjs.com/package/nextjs) \| notas |
-|[**reactnative**.dev](https://reactnative.dev/) \| [npmjs.com/react-native](https://www.npmjs.com/package/react-native) \| notas |
+|[**angular.io**/cli](https://angular.io/cli) \| [npmjs](https://www.npmjs.com/package/@angular/cli) \| notas |
+|[**pt-br.reactjs**.org](https://pt-br.reactjs.org/) \| [npmjs](https://www.npmjs.com/package/reactjs) \| notas |
+|[**nextjs**.org](https://nextjs.org/) \| [npmjs](https://www.npmjs.com/package/nextjs) \| notas |
+|[**reactnative**.dev](https://reactnative.dev/) \| [npmjs](https://www.npmjs.com/package/react-native) \| notas |
+|[**blitzjs**.com](https://blitzjs.com/) \| npmjs \| notas |
+|[**remix**.run](https://remix.run/) \| [npmjs](https://www.npmjs.com/package/remix) \| notas |
 
 
 
 
-https://blitzjs.com/
-https://remix.run/
+
+
 
 
 
