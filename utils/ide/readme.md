@@ -1,6 +1,6 @@
 ## **Ambiente de desenvolvimento integrado**
 
-<sub>[:arrow_upper_left: Wiki](../../readme.md)  <sub>
+<sub>[:arrow_upper_left: Wiki](../../README.md)  <sub>
 
  Escolher a IDE de desenvolvimento envolve definir quais tecnologias incorporar no projeto, escolhi utilizar nesses tutoriais o **Visual Studio Code**, mas poderia estudar e escolher a IDE que atenda a necessidade conforme o suporte a tecnologia, segue alguns exemplos de IDE`s: 
 
