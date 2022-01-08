@@ -1,6 +1,6 @@
 # Resourses
 
-<sub>[:arrow_upper_left: Docker](../README.md)<sub> 
+<sub>[:arrow_upper_left: Docker](../readme.md)<sub> 
 
 ## WSL 2 (Windows Subsystem for Linux) | [sobre o WSL 2](../../../../so/windows/ferramentas/wsl2/readme.md)
 

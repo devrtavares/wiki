@@ -1,6 +1,6 @@
 ## Padrões
 
-<sub>[:arrow_upper_left: Git](readme.md) \| [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) | [git-commit-msg-linter](../../npm/padraocodigo/git-commit-msg-linter/readme.md)<sub>
+<sub>[:arrow_upper_left: Git](readme.md) \| [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) | [git-commit-msg-linter](../../npm/padraocommit/git-commit-msg-linter/readme.md)<sub>
 
 
 

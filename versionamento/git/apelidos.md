@@ -1,6 +1,6 @@
 ## *Apelidos*
 
-<sub>[:arrow_upper_left: Git](readme.md) \| [*teste com padrão de commit*](../../npm/padraocodigo/git-commit-msg-linter/teste.md)<sub>
+<sub>[:arrow_upper_left: Git](readme.md) \| [*teste com padrão de commit*](../../npm/padraocommit/git-commit-msg-linter/teste.md)<sub>
 
 1. Incluíndo apelidos
 

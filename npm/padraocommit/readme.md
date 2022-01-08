@@ -1,4 +1,4 @@
-# Para Padrões de código
+# Para Padrões de commit
 
 <sub>[:arrow_upper_left: nodejs em módulos](../readme.md)  <sub>
 
