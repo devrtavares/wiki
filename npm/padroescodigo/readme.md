@@ -4,4 +4,4 @@
 
 || |
 |--|--|
-|[Eslint Config Standard With Typescript](https://github.com/standard/eslint-config-standard-with-typescript) \| [**notas**](eslint-config-standard-with-typescript/readme.md)|Pacote que habilita validação de formato de código|
+|[Eslint Config Standard With Typescript](https://github.com/standard/eslint-config-standard-with-typescript) \| [**notas**](eslint-config-standard-with-typescript/readme.md)|Pacote para habilitar verificação de formato de código ECMAScript|

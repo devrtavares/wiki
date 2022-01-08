@@ -1,12 +1,36 @@
 ### Eslint Config Standard With Typescript
 
-<sub>[:arrow_upper_left: Notas](../readme.md) \| [conventionalcommits](../../../versionamento/git/padrao.md) \| [*sobre o commit-msg-linter*](about.md)  <sub>
+<sub>[:arrow_upper_left: Notas](../readme.md) \| [*ECMAScript*](https://www.ecma-international.org/publications-and-standards/standards/) \| [*npmjs.com/eslint-config-standard-with-typescript*](https://www.npmjs.com/package/eslint-config-standard-with-typescript)  <sub>
 
-[npmjs.com](https://www.npmjs.com/package/git-commit-msg-linter)
-instalação de controle de versionamento local para a aplicação:
+- *Instalação*:
 
 ```
-npm i -D git-commit-msg-linter
+npm install --save-dev \
+  typescript@^4 \
+  eslint@^7.12.1 \
+  eslint-plugin-promise@^5.0.0 \
+  eslint-plugin-import@^2.22.1 \
+  eslint-plugin-node@^11.1.0 \
+  @typescript-eslint/eslint-plugin@^4.0.1 \
+  eslint-config-standard-with-typescript@latest
 ```
 
-- [*Teste*](teste.md)
+ESLint v7:
+```
+npx eslint .
+```
+
+ESLint v6:
+```
+ npx eslint --ext .js,.ts .
+```
+
+- .eslintrc.js
+```
+module.exports = {
+  extends: 'standard-with-typescript',
+  parserOptions: {
+    project: './tsconfig.json'
+  }
+}
+```
