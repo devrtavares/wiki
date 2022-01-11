@@ -1,6 +1,8 @@
-## *Comandos locais*
+# git
 
 <sub>[:arrow_upper_left: Git](readme.md)  <sub>
+
+## *comandos locais*
 
 ### `git add .`<br />`git add [path]`
 &nbsp;&nbsp;&nbsp;&nbsp;incluir arquivos alterados para versionamento<br/>
@@ -15,7 +17,7 @@
 ### `git checkout {commit hash}`
 &nbsp;&nbsp;&nbsp;&nbsp;retorna a versão
 
-### `git reset HEAD^ or HEAD^^`
+### `git reset HEAD^ or HEAD^^ --mixed`
 &nbsp;&nbsp;&nbsp;&nbsp;retorna para 1 ou 2 commits
 
 ### `git revert HEAD & git revert <rev commit hash>`

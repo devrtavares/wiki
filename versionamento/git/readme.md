@@ -1,6 +1,6 @@
-# Git
+# git
 
-<sub>[:arrow_upper_left: Wiki](../../README.md)  | [*Home page & download : git-scm*](https://git-scm.com/)  | [sobre  o git](about.md)<sub>
+<sub>[:arrow_upper_left: wiki](../../README.md)  \| [*Home page & download : git-scm*](https://git-scm.com/) \| [exemplo](exemplo.md)  \| [sobre  o git](about.md)<sub>
 
 
 
@@ -9,6 +9,7 @@
 4. [**git init**](gitinit.md)
 5. [gitignore](gitignore.md)
 6. [***comandos de versionamento***](comandos.md)
+7. [***github***](../../repo/github/readme.md)
 
 <sup></sup>
 ----

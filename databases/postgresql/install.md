@@ -1,9 +1,8 @@
-# postgreSQL
+# postgresql
 
+<sub>[:arrow_upper_left: postgresql](readme.md)</sub>
 
-<sub>[:arrow_upper_left: banco de dados](readme.md) \| </sub>
-
-
+## instalação
 
 ### 1. **Docker compose**
 

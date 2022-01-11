@@ -1,20 +1,19 @@
-# módulos (npm & yarn) - nodejs
-Plataforma back-end em javascript
+# nodejs 
 
-<sub>[:arrow_upper_left: Wiki](../README.md)</br> sobre: \[[**nodejs e package.json** ](nodejs/readme.md) \| [**npm**](nodejs/npm/readme.md) \| [**yarn**](nodejs/yarn/readme.md)\]<sub>
+<sub>[:arrow_upper_left: wiki](../README.md) \| [nodejs.org](https://nodejs.org/en/) \| [*notas de versões: node.green*](https://node.green/) \| [sobre o nodejs](nodejs/about.md)
+ <br/> Nodejs: plataforma back-end em javascript</sub>
 
+## módulos (npm & yarn)
+<sub>[*requisito: **package.json*** ](nodejs/config.md) \| [*npm*](nodejs/npm/readme.md) \| [*yarn*](nodejs/yarn/readme.md) \| [exemplo](nodejs/exemplo.md) \| [sobre módulos](nodejs/config.about.md)</sub> 
 
-
-1. [*Padrões de commit*](padraocommit/readme.md)
-
-1. [*Padrões de escrita*](padroescodigo/readme.md)
-
-2. [*Superconjuntos*](supersets/readme.md)
-
-3. [***Banco de dados***](databases/readme.md)
-
-4. [***Aplicações Web***](web/readme.md)
+|  |
+|--|
+| **Padrões** <br/> [*commit*](padraocommit/readme.md) \| [*código*](padroescodigo/readme.md) |
+| [*super-conjuntos*](supersets/readme.md) |
+| [*web*](web/readme.md) | 
+| [*banco de dados*](databases/readme.md) |
 
 <sup></sup>
 ---
+<image src="../imgs/nodejs-icon.svg" height="120" width="90"/>
 

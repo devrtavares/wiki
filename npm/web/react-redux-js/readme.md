@@ -9,4 +9,4 @@ npm install -D redux react-redux
 
 ### Exemplos 
 
-- [**Controlador para estado de um objeto com valores de texto**](sample1/readme.md) 
+- [**controlador para estado de um objeto com valores de texto**](sample1/readme.md) 

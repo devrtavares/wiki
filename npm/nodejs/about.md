@@ -1,8 +1,8 @@
-# Node js
+# nodejs
 
 <sub>[:arrow_upper_left: **node em módulos**](../readme.md) | [website: nodejs.org & *download*](https://nodejs.org/en/)<sub>
 
-
+## sobre o nodejs
 
 - é uma plataforma back-end
 - construída em cima do motor de interpretação de Javascript do Chrome
@@ -13,5 +13,5 @@
 
 <sup></sup>
 ---
-<image src="../../imgs/nodejs-icon.svg" height="35" width="110"/>
+<image src="../../imgs/nodejs-icon.svg" height="120" width="90"/>
 

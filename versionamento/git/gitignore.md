@@ -1,19 +1,22 @@
-## .gitignore
+# git
 
 <sub>[:arrow_upper_left: Git](readme.md)<sub>
 
-ao trabalhar com git, nem todos os arquivos precisam ser controlados por versão, como por exemplo módulos de código compartilhado, podemos mapear esses arquivos através de um .gitignore
+## .gitignore
+
+ao trabalhar com git nem todos os arquivos precisam de controle de versão! Por esse motivo temos o .gitignore.
+<br/> Um arquivo que ignora o controle de versão das pastas e arquivos descritos por ele. <br/>A exemplo módulos de código compartilhado não precisam de controle de versão.
 
 ---
 
 1. Exemplos
 
     Vamos incluir no nosso módulo um arquivo chamado .gitignore  
-    e edita-lo com o(s) nome(s) dos arquivos a serem desconsiderados.
-    >A exemplo o diretório **"node_modules"**
-
-    #### Exemplo 1: Terminal do Windows
-    >Através do therminal, na pasta corrente do projeto, podemos executar o comando
+    e edita-lo com o(s) nome(s) dos arquivos a serem ignorados.
+    >O diretório **"node_modules"**
+    >
+    > - Terminal do Windows -
+    >através do terminal, na pasta corrente do projeto, podemos executar o comando
     >```
     >cd /d "Desktop/novo-modulo"
     >code .gitignore

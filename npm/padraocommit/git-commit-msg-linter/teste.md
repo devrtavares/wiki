@@ -1,7 +1,8 @@
-#
+# git
 
 <sub>[:arrow_upper_left: git-commit-msg-linter](readme.md)  <sub>
 
+## git-commit-msg-linter
 *Agora com o modulo instalado podemos testar a validação de formato para mensagens de commit*
 
 - [`git s`](../../../versionamento/git/apelidos.md/)
@@ -38,6 +39,6 @@
         Breve resumo da mudança, escrito no tempo verbal presente. Começa com letra minúscula e não há ponto final.
     ```
 
-[`git c "chore: add commit linter"`]()
+[`git c "chore: add commit linter"`](../../../versionamento/git/apelidos.md/)
 
 *Respeitando o formado solicitado o commit ocorre com sucesso.*

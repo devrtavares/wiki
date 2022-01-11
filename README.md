@@ -4,14 +4,15 @@
     [ide](https://en.wikipedia.org/wiki/Integrated_development_environment) > [notas](utils/ide/readme.md)
 
 
-- Utilidades
+1. Utilidades
 
     |  |  |
     |--|--|
-    | [git-scm](https://git-scm.com/) \| [notas](versionamento/git/readme.md) | Versionamento |
-    | [docker](https://www.docker.com/) \| [notas](utils/vm/docker/readme.md) | Virtual Machine |
+    | [git-scm](https://git-scm.com/) \| [notas](versionamento/git/readme.md) | versionamento |
+    | [github](https://github.com/) \| [notas](repo/github/readme.md) | repositórios |
+    | [docker](https://www.docker.com/) \| [notas](utils/vm/docker/readme.md) | máquina virtual |
 
-- Linguagem de programação
+2. Linguagem de programação
 
     |  |  |
     |--|--|
@@ -52,6 +53,8 @@
 <sub>**Tavares**, Rodrigo da Silva; *2022-01-02 13:25*</sub>
 
 
+https://www.youtube.com/watch?v=6WB16wZS61c ( importante sobre redux)
+
 
 https://www.youtube.com/watch?v=b-YXlBXk9wA
 Auth0
@@ -59,3 +62,6 @@ https://www.youtube.com/watch?v=pvrKHpXGO8E
 Next.js - Autenticação JWT com back-end próprio - Code/Drops #72
 JWT
 https://www.youtube.com/watch?v=GxjHZL57pa4
+
+NODE & KAFKA
+https://www.youtube.com/watch?v=-H8pD7sMcfo

@@ -1,10 +1,13 @@
-# Npm
+# npm
 
 <sub>[:arrow_upper_left: Npm](readme.md)<sub>
 
-Com npm instalamos e desinstalamos bibliotecas / frameworks de um projeto ou da máquina
+## node package manager
 
-### Avaliações sobre frameworks através de comparativos
+&nbsp;&nbsp;&nbsp;&nbsp;Com npm instalamos e desinstalamos bibliotecas/frameworks nodejs de um projeto ou da máquina/computador
 
-- [npmtrends](https://www.npmtrends.com/@angular/cli-vs-blitz-js-vs-nextjs-vs-react-vs-vue-vs-remixd)
-- [npmcompare](https://npmcompare.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;Avaliações sobre frameworks através de comparativos
+
+- [*npmtrends*](https://www.npmtrends.com/@angular/cli-vs-blitz-js-vs-nextjs-vs-react-vs-vue-vs-remixd)
+- [*npmcompare*](https://npmcompare.com/)
+<br/><br/><sup>*Dúvida: A popularidade de um módulo/bibliotéca pode ser uma informação importante na hora de decidir qual usar?*</sup>

@@ -1,5 +1,8 @@
+# postgresql
 
 <sub>[:arrow_upper_left: PLPGSQL](../plpgsql.md)<sub>
+
+## tabelas
 
 ```sql
 CREATE TABLE [IF NOT EXISTS] table_name (

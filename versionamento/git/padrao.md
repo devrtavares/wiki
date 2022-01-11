@@ -1,8 +1,8 @@
-## Padrões
+# git
 
-<sub>[:arrow_upper_left: Git](readme.md) \| [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) | [git-commit-msg-linter](../../npm/padraocommit/git-commit-msg-linter/readme.md)<sub>
+<sub>[:arrow_upper_left: git](readme.md) \| [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) | [git-commit-msg-linter](../../npm/padraocommit/git-commit-msg-linter/readme.md)<sub>
 
-
+## padrões para descritivo de versionamento
 
 Conventional Commints - Trata-se de uma **orientação para padronização de commits** - controle de versionamento
 
@@ -12,4 +12,6 @@ Conventional Commints - Trata-se de uma **orientação para padronização de co
 [optional body]
 [optional footer(s)]
 
-<img src="../../imgs/conventionalcommits.JPG" width="353" height="56"/>
+<sub></sub>
+--
+<img src="../../imgs/conventionalcommits.JPG" width="153" height="26"/>

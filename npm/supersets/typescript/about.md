@@ -2,11 +2,6 @@
 
 <sub>[:arrow_upper_left: typescript](readme.md)  <sub>
 
-- Instalação por terminal de comandos:
-    ```
-    npm install -D typescript
-    ```
-
 ## Sobre o typescript
 - Typescript incluí a linguagem javascript a tipagem forte.
 - Também trás a possibilidade de descobrir erros durante o desenvolvimento e incrementar a inteligência (IntelliSense) da IDE que estamos utilizando. Sem o TypeScript, nossa IDE jamais saberia o formato de parâmetros e precisaríamos consultar a documentação do Framework utilizado para entender os métodos e valores que poderíamos requisitar.

@@ -1,8 +1,10 @@
-# Resourses
+# docker
 
 <sub>[:arrow_upper_left: Docker](../readme.md)<sub> 
 
-## WSL 2 (Windows Subsystem for Linux) | [sobre o WSL 2](../../../../so/windows/ferramentas/wsl2/readme.md)
+## resourses
+
+### WSL 2 (Windows Subsystem for Linux) | [sobre o WSL 2](../../../../so/windows/ferramentas/wsl2/readme.md)
 
 1. Migração de imagens para outro diretório:
 

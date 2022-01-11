@@ -1,8 +1,10 @@
-# Sobre o docker
+# docker
 
 <sub>[:arrow_upper_left: docker](readme.md)<sub>
 
-## O que é Docker?
+# Sobre o docker
+
+### O que é Docker?
 O termo Docker se refere a muitas coisas: 
 -um projeto da comunidade open source; as ferramentas resultantes desse projeto; a empresa Docker Inc., principal apoiadora do projeto; e as ferramentas compatíveis formalmente com a empresa. O fato de que as tecnologias e a empresa têm o mesmo nome pode causar uma certa confusão.
 
@@ -13,7 +15,7 @@ Veja uma simples explicação:
 - A empresa Docker Inc. se baseia no trabalho realizado pela comunidade do Docker, tornando-o mais seguro, e compartilha os avanços com a comunidade em geral. Depois, ela oferece aos clientes corporativos o suporte necessário para as tecnologias que foram aprimoradas e fortalecidas.
 - Com o Docker, é possível lidar com os containers como se fossem máquinas virtuais modulares e extremamente leves. Além disso, os containers oferecem maior flexibilidade para você criar, implantar, copiar e migrar um container de um ambiente para outro. Isso otimiza as aplicações na nuvem.
 
-### Antes de Proseguir, vamos ver algums problemas comuns com instalações Windows
+#### Antes de Proseguir, vamos ver algums problemas comuns com instalações Windows
 
 - Evite Utilizar diretórios como a **area de trabalho**.
 os ambientes de desenvolvimento constumam ter paths absolutos
@@ -28,7 +30,7 @@ para nao ter problemas.
 virtualização** podem ocasionar erros e conflitos, como o **virtualBox** da
 oracle, desinstale caso possua componentes que alterem o **Hyper-V**
 
-### TERMOS COMUNS USANDOS COM DOCKER
+#### TERMOS COMUNS USANDOS COM DOCKER
 - IMAGEM
 Recebe o nome de imagem, o grupo de dados que agrupa as informaçoes e objetivos
 a serem executados pelo Docker.
@@ -37,7 +39,7 @@ a serem executados pelo Docker.
 Dentro de uma imagem podemos agrupar um determinado agrupamento de dados 
 como exemplo uma determinada aplicação.
 
-### LINKS UTEIS
+#### LINKS UTEIS
 
  - https://www.docker.com/
  - https://www.docker.com/products/docker-desktop

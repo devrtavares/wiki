@@ -1,19 +1,21 @@
-# Docker
+# docker
 
-<sub>[:arrow_upper_left: Wiki](../../../README.md) | [*Web page :: download*](https://www.docker.com/) | [sobre o docker](about.md) <sub> 
+<sub>[:arrow_upper_left: wiki](../../../README.md) | [*web page :: download*](https://www.docker.com/) | [sobre o docker](about.md) <sub> 
 
-- [Instalação](install.md)
+- [instalação](install.md)
 
-## Configurações
+## configurações
 
-1. [Resources](config/resources.md)
+1. [resources](config/resources.md)
 
-## Comandos
+## comandos
 
-[run](run.md)
+1. [run](run.md)
+100. [compose](compose.md)
+
 
 <sup></sub>
 ---
 
-<image src="../../../imgs/docker-ico.png" height="110" width="120"/>
+<image src="../../../imgs/docker-ico.png" height="60" width="65"/>
 

@@ -1,18 +1,23 @@
 # typescript
 
-<sub>[:arrow_upper_left: superconjuntos](../readme.md) | [sobre o typescript](about.md) <sub>
+<sub>[:arrow_upper_left: superconjuntos](../readme.md) \| [exemplo](exemplo.md) \| [sobre o typescript](about.md) <sub>
 
-1. comandos:
-    1. [npx](cnpx.md) | [arquivo de configuração](tsconfigjson.md)
+### Instalação
 
-2. Pacotes adicionais p/ typescript
+1. *Instalação por terminal de comandos*
+    ```
+    npm install -D typescript
+    ```
+2. [**C***ompilar type script*](cnpx.md) para: [*configurações*](tsconfigjson.md)
+    ```
+    npx tsc --init
+    ```
+    1. npx -- node package e**X**ecutor
+    2. tsc -- type script **compiler**
 
-    |  |
-    |--|
-    |@types/node \| [npmjs](https://www.npmjs.com/package/@types/node) \| [notas](types-node/readme.md)
+### Pacotes adicionais p/ typescript
 
-### Resumo:
-```
-npm install -D typescript @types/node
-npx tsc --init
-```
+|  |  |
+|--|--|
+| **@types/node** <br/><sub>*Habilita IntelliSense*</sub> | [notas](types-node/readme.md) <br/><sub>[npmjs.com](https://www.npmjs.com/package/@types/node)</sub>
+

@@ -1,6 +1,8 @@
+# postgresql
 
 <sub>[:arrow_upper_left: PLPGSQL](../plpgsql.md)<sub>
 
+## indices
 ```sql
 CREATE [ UNIQUE ] INDEX [ CONCURRENTLY ] [ name ] ON table [ USING method ]
     ( { column | ( expression ) } [ COLLATE collation ] [ opclass ] [ ASC | DESC ] [ NULLS { FIRST | LAST } ] [, ...] )

@@ -1,12 +1,12 @@
-# Npm 
+# npm 
 
 <sub>[:arrow_upper_left: node módulos](../../readme.md) | [website](https://www.npmjs.com/) | [sobre o npm](about.md)<sub>
 
+## node package manager
 
-
-1. Comandos
-    1. [**npm**](cnpm.md)
-    2. [**npx**](cnpx.md)
+### Comandos
+- [**npm**](cnpm.md) <br/>&nbsp;&nbsp;&nbsp;&nbsp;*(Node Package **M**anager)*
+- [**npx**](cnpx.md) <br/>&nbsp;&nbsp;&nbsp;&nbsp;*(Node Package e**X**ecutor)*
 
 <sup></sup>
 ---
