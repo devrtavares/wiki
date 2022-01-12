@@ -16,7 +16,7 @@
 
     |  |  |
     |--|--|
-    | [javascript](npm/javascript/readme.md) | javascript |
+    | [javascript](npm/javascript/readme.md) \| [ecma](npm/javascript/ecma.md) | javascript |
     | [nodejs](npm/readme.md) | javascript |
     | [springboot](springboot/readme.md)|--|
 

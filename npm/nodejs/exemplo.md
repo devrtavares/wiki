@@ -1,6 +1,6 @@
 # nodejs 
 
-<sub>[:arrow_upper_left: node em módulos](../README.md)</sub>
+<sub>[:arrow_upper_left: node em módulos](../readme.md)</sub>
 
 ## módulo base
 
