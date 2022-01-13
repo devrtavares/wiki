@@ -4,11 +4,12 @@
  <br/> Nodejs: plataforma back-end em javascript</sub>
 
 ## módulos (npm & yarn)
-<sub>[*requisito: **package.json*** ](nodejs/config.md) \| [*npm*](nodejs/npm/readme.md) \| [*yarn*](nodejs/yarn/readme.md) \| [exemplo](nodejs/exemplo.md) \| [sobre módulos](nodejs/config.about.md)</sub> 
+<sub> [*npm*](nodejs/npm/readme.md) \([*popularidade*](nodejs/npm/popularidade.md)\) / [*yarn*](nodejs/yarn/readme.md) \| [sobre módulos](nodejs/config.about.md) <br/>&nbsp;&nbsp;&nbsp;&nbsp;- ***(requisito) iníciar**: arquivo para controle de pacotes*: <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[***package.json*** ](nodejs/config.md) : [exemplo](nodejs/exemplo.md)</sub>
 
 |  |
 |--|
 | **Padrões** <br/> [*commit*](padraocommit/readme.md) \| [*código*](padroescodigo/readme.md) |
+| **[hooks](https://www.npmtrends.com/ghooks-vs-husky-vs-pre-commit-vs-pre-push-vs-precommit-hook-vs-prepush-vs-prepush-hook)** <br/>  |
 | [*super-conjuntos*](supersets/readme.md) |
 | [*web*](web/readme.md) | 
 | [*banco de dados*](databases/readme.md) |

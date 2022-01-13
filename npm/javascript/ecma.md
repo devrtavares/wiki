@@ -1,6 +1,6 @@
 # javascript
 
-<sub>[:arrow_upper_left: javascript](readme.md) \| [*website: ecma-international.org*](https://www.ecma-international.org/publications-and-standards/standards/)<sub>
+<sub>[:arrow_upper_left:wiki](../../README.md) \| [javascript](readme.md) \| [padrões de código](../padroescodigo/readme.md) \| [eslint](../padroescodigo/eslint/readme.md) \| [*website: ecma-international.org*](https://www.ecma-international.org/publications-and-standards/standards/)<sub>
 
 # european computer manufacturers association
 

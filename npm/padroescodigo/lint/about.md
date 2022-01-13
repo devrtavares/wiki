@@ -1,6 +1,6 @@
 # npm
 
-<sub>[:arrow_upper_left: lint](../readme.md) <sub>
+<sub>[:arrow_upper_left: lint](../readme.md) \| [padrões de código](../readme.md) \| [eslint](../eslint/readme.md) <sub>
 
 # oque é lint?
 

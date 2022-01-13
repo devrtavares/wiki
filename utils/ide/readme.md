@@ -1,9 +1,10 @@
 ## **ambiente de desenvolvimento integrado**
 
-<sub>[:arrow_upper_left: wiki](../../README.md)  <sub>
+<sub>[:arrow_upper_left: wiki](../../README.md) <sub>
 
- *Escolher a IDE de desenvolvimento envolve definir quais tecnologías incorporar no projeto.*
- - ***Visual Studio Code**: é uma das ide's mais populares atualmente. Entre outras:*
+ - ***[visual studio code](vscode/readme.md)***
+
+ - *Escolher a IDE de desenvolvimento envolve definir quais tecnologías incorporar no projeto.*
 
     | | | | |
     |--|--|--|--|
