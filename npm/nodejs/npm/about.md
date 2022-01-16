@@ -1,6 +1,6 @@
 # npm
 
-<sub>[:arrow_upper_left: Npm](readme.md)<sub>
+<sub>[:arrow_upper_left: npm](readme.md)<sub>
 
 ## node package manager
 

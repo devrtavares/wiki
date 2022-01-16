@@ -14,6 +14,9 @@
 ### `git commit -m "texto"`
 &nbsp;&nbsp;&nbsp;&nbsp;criar versão dos ***arquivos adiconais com git add***
 
+### `git commit --amend`
+&nbsp;&nbsp;&nbsp;&nbsp;inclui alterações no ultimo commit, *merge...*
+
 ### `git checkout {commit hash}`
 &nbsp;&nbsp;&nbsp;&nbsp;retorna a versão
 

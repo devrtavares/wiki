@@ -10,7 +10,7 @@
     ```
     - *(opcional)*
         ```bash
-        npm set-script format "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\""
+        npm set-script format "prettier --ignore-path .gitignore --write \""**/*.+(js|ts|json)\"""
         npm run format
         ```
 

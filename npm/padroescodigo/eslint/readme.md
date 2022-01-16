@@ -12,7 +12,7 @@
     ```
     - *(opcional) adicionar transição de arquivos typescript para eslint*
         ```
-        npm i -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin 
+        npm i -D eslint @eslint/create-config @typescript-eslint/parser @typescript-eslint/eslint-plugin 
         ```
 
 - **configurações**
@@ -20,9 +20,10 @@
         ```
         npx eslint --init
         ```
-    - *save-dev:*
+    - ***save-dev**: - <sub>podemos iniciar apenas com esse comando e depois instalar as dependências em modo local: -D</sub>*
         ```
-        npx .\node_modules\.bin\eslint --init
+        npm i -D eslint @eslint/create-config
+        npx eslint --init
         ```
         ou
         `yarn run eslint --init`

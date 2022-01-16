@@ -1,8 +1,12 @@
 
 - Plataforma de desenvolvimento 
 
-    [ide](https://en.wikipedia.org/wiki/Integrated_development_environment) > [notas](utils/ide/readme.md)
+     > 
 
+    |  |  |
+    |--|--|
+    | [ide](https://en.wikipedia.org/wiki/Integrated_development_environment) \| [notas](utils/ide/readme.md) <br/> [extenções](utils/ide/vscode/vsutils.md)| ambiente de <br/> desenvolvimento |
+       
 
 1. Utilidades
 

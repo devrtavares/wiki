@@ -8,9 +8,10 @@
 
 |  |
 |--|
-| **Padrões** <br/> [*commit*](padraocommit/readme.md) \| [*código*](padroescodigo/readme.md) |
-| **[hooks](https://www.npmtrends.com/ghooks-vs-husky-vs-pre-commit-vs-pre-push-vs-precommit-hook-vs-prepush-vs-prepush-hook)** <br/>  |
 | [*super-conjuntos*](supersets/readme.md) |
+| **Padrões:** [*versionamento*](padraocommit/readme.md) \| [*código*](padroescodigo/readme.md) |
+| **Interceptação código:** [*ganchos*](hooks/readme.md) |
+| [*testes*](testes/readme.md) |
 | [*web*](web/readme.md) | 
 | [*banco de dados*](databases/readme.md) |
 
