@@ -1,6 +1,6 @@
 # git
 
-<sub>[:arrow_upper_left: git](readme.md) \| [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) | [git-commit-msg-linter](../../npm/padraocommit/git-commit-msg-linter/readme.md)<sub>
+<sub>[:arrow_upper_left: git](readme.md) --- [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)  --- [git-commit-msg-linter](../../npm/padraocommit/git-commit-msg-linter/readme.md)<sub>
 
 ## padrões para descritivo de versionamento
 

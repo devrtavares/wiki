@@ -1,6 +1,6 @@
 # github
 
-<sub>[:arrow_upper_left: Integração](integrations.md) \| [comando clone](commands.md)<sub>
+<sub>[:arrow_upper_left: Integração](integrations.md) --- [comando clone](commands.md)<sub>
 
 - *requisitos*:
     - [*autenticação configurada*](integrations.md)

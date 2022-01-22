@@ -1,6 +1,6 @@
 # vs-code
 
-<sub>[:arrow_upper_left: vs-code](readme.md) \| [npm-eslint](../../../npm/padroescodigo/eslint/readme.md)<sub>
+<sub>[:arrow_upper_left: vs-code](readme.md) --- [npm-eslint](../../../npm/padroescodigo/eslint/readme.md)<sub>
 
 ### eslint integrado ao visual studio code
 

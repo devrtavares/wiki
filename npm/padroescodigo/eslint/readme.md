@@ -1,16 +1,16 @@
 # npm
 
-<sub>[:arrow_upper_left: padrões de código](../readme.md) \| [eslint.org](https://eslint.org/)
+<sub>[:arrow_upper_left: padrões de código](../readme.md) --- [eslint.org](https://eslint.org/)
 
 ## eslint 
 <sup>*es* : [*ecma-script*](../../javascript/ecma.md) *lint* : [*removedor de fiapos*](../lint/about.md)
 </sup>
 
-- **Instalação \| *(extensão para code: [**eslint**](../../../utils/ide/vscode/dbaeumer-vscode-eslint.md))***
+- **Instalação --- *(extensão para code: [**eslint**](../../../utils/ide/vscode/dbaeumer-vscode-eslint.md))***
     ```
     npm i -D eslint
     ```
-    - *(opcional) adicionar transição de arquivos typescript para eslint*
+    - *(typescript) adicionar transição de arquivos  para eslint*
         ```
         npm i -D eslint @eslint/create-config @typescript-eslint/parser @typescript-eslint/eslint-plugin 
         ```

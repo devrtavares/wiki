@@ -1,6 +1,6 @@
 # ssh-keygen para windows
 
-<sub>[:arrow_upper_left:wiki](../../../../README.md) \| [docs.microsoft: openssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement) \| [*integração de repositórios, git & github*](../../../../repo/github/integrations.md)<sub> 
+<sub>[:arrow_upper_left: windows](../../readme.md) --- [docs.microsoft: openssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement) --- [*integração de repositórios, git & github*](../../../../repo/github/integrations.md)<sub> 
 
 - Verifique se o programa OpenSSH Client está instalado no windows
 
@@ -12,4 +12,4 @@
     +            └── Cliente OpenSSH
     ```
 
-- [*Gerar chave ssh : publica e privada*](../../../../repo/github/keygenssh.md)
+- [*Gerar chave ssh segura publica e privada*](../../../../repo/github/keygenssh.md)

@@ -4,6 +4,5 @@
 
 ### *padrões de comit*
 
-|  | |
-|--|--|
-|git-commit-msg-linter<br/><sub>habilita validação de texto para comits, dentro do padrão recomendado</sub>| [**notas**](git-commit-msg-linter/readme.md) <br/><sub>[npmjs](https://www.npmjs.com/package/git-commit-msg-linter)</sub> |
+
+- [**git-commit-msg-linter**](git-commit-msg-linter/readme.md) --site --[npm](https://www.npmjs.com/package/git-commit-msg-linter) <br/> <sub>&nbsp;&nbsp;&nbsp;&nbsp;habilita validação de texto para comits, dentro do padrão recomendado</sub> <br/> 

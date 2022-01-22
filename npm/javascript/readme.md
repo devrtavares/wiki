@@ -1,16 +1,10 @@
 # javascript 
 
-<sub>[:arrow_upper_left: wiki](../../README.md) \| [website](https://www.javascript.com/) \| [sobre o javascript](about.md)<sub>
+<sub>[:arrow_upper_left: home](../../README.md) --- [website](https://www.javascript.com/) --- [sobre o javascript](about.md)<sub>
 
-### padrões <sub> [*sobre*](padroes.md) <sub>
-
-
-
-|  |  |
-|--|--|
-| **ecma** <br/><sub>european computer manufacturers association</sub> | <sup>[**sobre ecma**](ecma.md) <br/> [**ECMAScrip** ~ ecma-262](https://262.ecma-international.org/12.0/)</sup> |
-| **standardjs.com** <br/><sub>padrão de orienta como escrever seu código javascript</sub> | <sup>[**standardjs**](https://standardjs.com/) <br/> [**bibliotéca padrão**](https://github.com/standard)</sup> |
-
+- [padrões](padroes.md)
+    - [**ecma**](ecma.md) ---[script-262](https://262.ecma-international.org/12.0/) <br/>*european computer manufacturers association*
+    - **standardjs.com** --[site](https://standardjs.com/) --[lib-padrão](https://github.com/standard) <br/>*padrão de orienta como escrever seu código javascript*
 
 <sup></sup>
 ---

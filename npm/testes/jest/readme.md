@@ -1,13 +1,18 @@
 # nodejs 
 
-<sub>[:arrow_upper_left: hooks](../readme.md) | [exemplo - jest.config.js](exemplo.md) \| [resumo](resumo.md)<sub>
+<sub>[:arrow_upper_left: testes](../readme.md)  --- [exemplo - jest.config.js](exemplo.md) --- [resumo](resumo.md)<sub>
 
 ## *jest*
 
 - ***Instalação* (extensão para code: [**jest-snippets**](../../../utils/ide/vscode/jest-snippets.md))** 
     ```dash
+    npm install -D jest @types/jest
+    ```
+    - (typescript)
+    ```dash
     npm install -D jest @types/jest ts-jest
     ```
+
     - ***package.json***
         ```dash
         "scripts": {

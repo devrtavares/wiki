@@ -1,55 +1,36 @@
-
-- Plataforma de desenvolvimento 
-
-     > 
-
-    |  |  |
-    |--|--|
-    | [ide](https://en.wikipedia.org/wiki/Integrated_development_environment) \| [notas](utils/ide/readme.md) <br/> [extenções](utils/ide/vscode/vsutils.md)| ambiente de <br/> desenvolvimento |
-       
-
-1. Utilidades
-
-    |  |  |
-    |--|--|
-    | [git-scm](https://git-scm.com/) \| [notas](versionamento/git/readme.md) | versionamento |
-    | [github](https://github.com/) \| [notas](repo/github/readme.md) | repositórios |
-    | [docker](https://www.docker.com/) \| [notas](utils/vm/docker/readme.md) | máquina virtual |
-
-2. Linguagem de programação
-
-    |  |  |
-    |--|--|
-    | [javascript](npm/javascript/readme.md) \| [ecma](npm/javascript/ecma.md) | javascript |
-    | [nodejs](npm/readme.md) | javascript |
-    | [springboot](springboot/readme.md)|--|
-
-- Interpretação de navegador
-
-    |  |  |
-    |--|--|
-    |html5|--|
-    |css]|--|
-    |xaml|--|
+# home
+- ambiente de desenvolvimento 
+    - **sistemas operacionais**
+        - **widows** -- [*ferramentas*](so/windows/readme.md/#)
+            - ***maquina virtual***
+                - [**docker**](utils/vm/docker/readme.md) -- [site](https://www.docker.com/) <sub> máquina virtual </sub>  
+        - ***plataforma de desenvolvimento*** 
+            - [**ide**](utils/ide/readme.md) -- [*vs-code-extenções*](utils/ide/vscode/vsutils.md) -- [wikipedia](https://en.homepedia.org/home/Integrated_development_environment) <sub>*ambiente de desenvolvimento*</sub>
+        - **código**
+            - ***controle de versão***
+                - [**git**](versionamento/git/readme.md) -- [site](https://git-scm.com/) <sub> versionamento local </sub>
+                    - [**github**](repo/github/readme.md) -- [site](https://github.com/) <sub> repositórios remotos </sub>
 
 
-- Integração
 
-    |  |  |  |
-    |--|--|--|
-    | [--](--) | -- | tools |
+    - Linguagem de programação
 
-- Banco de dados
+        - [javascript](npm/javascript/readme.md) --- [ecma](npm/javascript/ecma.md)
+            - [nodejs](npm/readme.md)
+        - [java]
+            - [springboot](springboot/readme.md)
 
-    |  |
-    |--|
-    | [PostgreSQL](https://www.postgresql.org/) \| [notas](databases/postgresql/readme.md) |
+    - Interpretação de navegador
+        
+        - html5
+        - css
+        - xaml
 
-- Sistemas operacionais
+    - Dados
+        - Integração
+        - banco de dados
+            - [PostgreSQL](databases/postgresql/readme.md) --- [site](https://www.postgresql.org/)
 
-    |  |  |  |
-    |--|--|--|
-    | widows | -- | -- |
 
 
 <sub><sub>

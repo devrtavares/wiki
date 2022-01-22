@@ -1,6 +1,6 @@
 # vs-code
 
-<sub>[:arrow_upper_left: wiki](../../../README.md) <sub>
+<sub>[:arrow_upper_left: home](../../../README.md) <sub>
 
 - *adicionar e remover extenções ao vscode por terminal de comando*
 

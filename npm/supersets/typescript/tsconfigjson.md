@@ -1,6 +1,6 @@
 # tsconfig.json
 
-<sub>[:arrow_upper_left: typescript](readme.md) | [exemplo de configuração](tsconfigjsonsample.md) <sub>
+<sub>[:arrow_upper_left: typescript](readme.md)  --- [exemplo de configuração](tsconfigjsonsample.md) <sub>
 
 ### **abordagem de compitação**
 

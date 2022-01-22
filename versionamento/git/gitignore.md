@@ -1,6 +1,6 @@
 # git
 
-<sub>[:arrow_upper_left: Git](readme.md)<sub>
+<sub>[:arrow_upper_left: git](readme.md)<sub>
 
 ## .gitignore
 

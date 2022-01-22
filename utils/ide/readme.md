@@ -1,6 +1,6 @@
 ## **ambiente de desenvolvimento integrado**
 
-<sub>[:arrow_upper_left: wiki](../../README.md) <sub>
+<sub>[:arrow_upper_left: home](../../README.md) <sub>
 
  - ***[visual studio code](vscode/readme.md)***
 

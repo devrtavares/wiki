@@ -1,6 +1,6 @@
 # yarn
 
-<sub>[:arrow_upper_left: nome módulos](../../readme.md) | [sobre o yarn](about.md)<sub>
+<sub>[:arrow_upper_left: nome módulos](../../readme.md)  --- [sobre o yarn](about.md)<sub>
 
 <sup></sup>
 ---

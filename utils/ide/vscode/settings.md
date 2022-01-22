@@ -1,6 +1,6 @@
 ## **ambiente de desenvolvimento integrado**
 
-<sub>[:arrow_upper_left: vs-code](readme.md) | [prettier](../../../npm/padroescodigo/prettier/readme.md)<sub>
+<sub>[:arrow_upper_left: vs-code](readme.md) --- [prettier](../../../npm/padroescodigo/prettier/readme.md)<sub>
 
 # settings.json
 

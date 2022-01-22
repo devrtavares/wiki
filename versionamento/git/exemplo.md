@@ -1,6 +1,6 @@
 # git 
 
-<sub>[:arrow_upper_left: Wiki](readme.md)</sub>
+<sub>[:arrow_upper_left: home](readme.md)</sub>
 
 ## exemplo
 

@@ -1,6 +1,6 @@
 # git
 
-<sub>[:arrow_upper_left: git](readme.md) \|  [*git-scm.com/**documentação***](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) \| [*teste com padrão de commit*](../../npm/padraocommit/git-commit-msg-linter/teste.md)<sub>
+<sub>[:arrow_upper_left: git](readme.md) ---  [*git-scm.com/**documentação***](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) --- [*teste com padrão de commit*](../../npm/padraocommit/git-commit-msg-linter/teste.md)<sub>
 
 ## *apelidos*
 

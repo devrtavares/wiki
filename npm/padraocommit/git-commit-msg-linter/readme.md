@@ -1,6 +1,6 @@
 # git 
 
-<sub>[:arrow_upper_left: notas](../readme.md) \| [conventionalcommits](../../../versionamento/git/padrao.md) \| [npmjs.com](https://www.npmjs.com/package/git-commit-msg-linter) \| [*sobre o commit-msg-linter*](about.md)  <sub>
+<sub>[:arrow_upper_left: notas](../readme.md) --- [conventionalcommits](../../../versionamento/git/padrao.md) --- [npmjs.com](https://www.npmjs.com/package/git-commit-msg-linter) --- [*sobre o commit-msg-linter*](about.md)  <sub>
 
 ## git-commit-msg-linter
 

@@ -1,6 +1,6 @@
 # nodejs
 
-<sub>[:arrow_upper_left: **node em módulos**](../readme.md) | [website: nodejs.org & *download*](https://nodejs.org/en/)<sub>
+<sub>[:arrow_upper_left: **node em módulos**](../readme.md)  --- [website: nodejs.org & *download*](https://nodejs.org/en/)<sub>
 
 ## sobre o nodejs
 

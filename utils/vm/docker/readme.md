@@ -1,17 +1,17 @@
 # docker
 
-<sub>[:arrow_upper_left: wiki](../../../README.md) | [*web page :: download*](https://www.docker.com/) | [sobre o docker](about.md) <sub> 
+<sub>[:arrow_upper_left: home](../../../README.md) --- [*web page :: download*](https://www.docker.com/) --- [sobre o docker](about.md) <sub> 
 
 - [instalação](install.md)
 
-## configurações
+    - configurações
 
-1. [resources](config/resources.md)
+        1. [resources](config/resources.md)
 
-## comandos
+    - comandos
 
-1. [run](run.md)
-100. [compose](compose.md)
+        1. [run](run.md)
+        100. [compose](compose.md)
 
 
 <sup></sub>

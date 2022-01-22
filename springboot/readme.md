@@ -3,7 +3,7 @@
 Plataforma back-end em java
 
 
-<sub>[:arrow_upper_left: Wiki](../README.md) <sub>
+<sub>[:arrow_upper_left: home](../README.md) <sub>
 
 
 

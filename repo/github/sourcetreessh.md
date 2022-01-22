@@ -1,6 +1,6 @@
 # github
 
-<sub>[:arrow_upper_left: Integração](integrations.md) \| [clonar repositório](clone.md) <sub>
+<sub>[:arrow_upper_left: Integração](integrations.md) --- [clonar repositório](clone.md) <sub>
 
 ### *Importar chave privada sourcetree*
 

@@ -1,6 +1,6 @@
 # nodejs 
 
-<sub>[:arrow_upper_left: hooks](../readme.md) | [**exemplo.zip**](exemplo.zip)<sub>
+<sub>[:arrow_upper_left: jest](readme.md)  --- [**exemplo.zip**](exemplo.zip)<sub>
 
 ## *jest - resumo*
 

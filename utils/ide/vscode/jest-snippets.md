@@ -1,6 +1,6 @@
 # vs-code
 
-<sub>[:arrow_upper_left: vs-code](readme.md) \| [npm-jest](../../../npm/testes/jest/readme.md)<sub>
+<sub>[:arrow_upper_left: vs-code](readme.md) --- [npm-jest](../../../npm/testes/jest/readme.md)<sub>
 
 ###  jest-snippets
 

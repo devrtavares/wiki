@@ -1,6 +1,6 @@
 # vs-code
 
-<sub>[:arrow_upper_left: vs-code](readme.md) \| [npm-prettier](../../../npm/padroescodigo/prettier/readme.md)<sub>
+<sub>[:arrow_upper_left: vs-code](readme.md) --- [npm-prettier](../../../npm/padroescodigo/prettier/readme.md)<sub>
 
 ## prettier - formatador de código
 
