@@ -1,6 +1,6 @@
 # Type
 
-<sub>[:arrow_upper_left: typescript](../readme.md)  <sub>
+<sub>[:arrow_upper_left: instalação](../install.md) <sub>
 
 ```
 npm install -D @types/node

@@ -1,6 +1,6 @@
 # nodejs
 
-<sub>[:arrow_upper_left: node em módulos](../readme.md) --- [npm](npm/readme.md)<sub>
+<sub>[:arrow_upper_left:npm](npm/readme.md) --- [ node em módulos](../readme.md)<sub>
 
 ## execução de pacotes
 

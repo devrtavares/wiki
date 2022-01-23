@@ -15,10 +15,10 @@
 
     - Linguagem de programação
 
-        - [javascript](npm/javascript/readme.md) --- [ecma](npm/javascript/ecma.md)
-            - [nodejs](npm/readme.md)
-        - [java]
-            - [springboot](springboot/readme.md)
+        - [**javascript**](npm/javascript/readme.md) --- [ecma](npm/javascript/ecma.md)
+            - [**nodejs**](npm/readme.md)
+        - [**java**]
+            - [**springboot**](springboot/readme.md)
 
     - Interpretação de navegador
         
@@ -29,7 +29,8 @@
     - Dados
         - Integração
         - banco de dados
-            - [PostgreSQL](databases/postgresql/readme.md) --- [site](https://www.postgresql.org/)
+            - **dbeaver** --sqlmanager --- [site](https://dbeaver.io/download/)
+            - [**PostgreSQL**](databases/postgresql/readme.md) --- [site](https://www.postgresql.org/)
 
 
 

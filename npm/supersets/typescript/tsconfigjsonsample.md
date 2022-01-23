@@ -2,17 +2,18 @@
 
 <sub>[:arrow_upper_left: arquivo de configuração](tsconfigjson.md) <sub>
 
-Com isso já podemos compilar nosso projeto:
+- com isso já podemos compilar nosso projeto:
 
-```json
-{
-	"compilerOptions": {
-		"outDir": "./dist",
-		"module": "commonjs",
-		"target": "es2019",
-		"esModuleInterop": true,
-		"allowJS": true,
-		"strictNullChecks":  true
+	```json
+	{
+		"compilerOptions": {
+			"target": "es2017",
+			"module": "commonjs",
+			"rootDir": "./src",
+			"outDir": "./dist",
+			"esModuleInterop": true,
+			"allowJS": true,
+			"strictNullChecks": true
+		}
 	}
-}
-```
+	```
