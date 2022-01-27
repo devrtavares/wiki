@@ -23,19 +23,7 @@
         ```dash
         npx ts-jest config:init
         ```
-
-     - ***jest paths***
-        - .eslintrc...
-        <br/><sub> no arquivo de configurações do eslint, na propriedade **"env"** basta incluir o node e jest como true
-
-            ```diff
-            "env": {
-                "browser": true,
-                "es2021": true,
-            +    "node": true
-            +    "jest": true
-            },
-            ```
+        
      - ***jest e ESLint***
         - .eslintrc...
         <br/><sub> no arquivo de configurações do eslint, na propriedade **"env"** basta incluir o node e jest como true
@@ -48,6 +36,17 @@
             +    "jest": true
             },
             ```
+
+     - ***jest paths***
+        - jest.config.js...
+        <br/><sub> 
+            ```diff
+            + const { compilerOptions } = require('./tsconfig.json')
+            + const { pathsToModuleNameMapper } = require('ts-jest')
+
+            + moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths, { prefix: '<rootDir>' })
+            ```
+            
 - ***package.json***
     ```dash
     "scripts": {
