@@ -12,3 +12,13 @@
             ```
             npx tsc --init
             ```
+    - *remover comentários no vscode* 
+        ```bash
+        # selecione o inicio do comentário
+        ctrl+SHIFT+L
+        # ctrl + end + delete
+        ```
+
+        <image src="../../../imgs/vs-code-remove-comments.gif" height="238" width="350"/>
+
+        

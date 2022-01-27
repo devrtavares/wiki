@@ -13,24 +13,6 @@
         ```bash
         code --uninstall-extension dbaeumer.vscode-eslint
         ```
-
-- [**settings.json**](../../../utils/ide/vscode/settings.md) - ***formatação do visual studio code:***
-
-    ```bash
-    // settings.json
-    {
-        /* "eslint.validate": [
-            "javascript",
-            "javascriptreact",
-            "typescript",
-            "typescriptreact",
-        ],*/
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-        }
-    ...
-    }
-    ```
 <sup></sup>
 ---
 <image src="../../../imgs/ide-vscode-plugin-eslint.png" height="40" width="190"/>

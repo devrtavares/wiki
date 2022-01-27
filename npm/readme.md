@@ -18,6 +18,7 @@
     - [*testes*](testes/readme.md)
     - [*web*](web/readme.md)
         - [*servidores web*](servers/readme.md)
+    - [*compiladores*](comps/readme.md)
     - [*banco de dados*](databases/readme.md)
 
 

@@ -6,4 +6,6 @@
 - [**Instalação**](install.md)
 - [**configuração**](config.md)
 
+    - [*projeto de exemplo*](ps/readme.md)
+
 

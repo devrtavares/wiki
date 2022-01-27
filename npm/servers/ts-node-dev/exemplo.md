@@ -1,14 +1,17 @@
 # nodejs 
 
-<sub>[:arrow_upper_left: ts-node-dev](../readme.md) --- [rocketseat](https://blog.rocketseat.com.br/ferramentas-de-compilacao-execucao-em-tempo-de-desenvolvimento-dos-projetos-em-node-js/)<sub>
+<sub>[:arrow_upper_left: ts-node-dev](../readme.md) --- [rocketseat](https://blog.rocketseat.com.br/ferramentas-de-compilacao-execucao-em-tempo-de-desenvolvimento-dos-projetos-em-node-js/) --- [youtube-rocketseat](https://www.youtube.com/watch?v=rCeGfFk-uCk)<sub>
 
 ## *ts-node-dev - exemplo*
 
 
-- package.json 
+- **package.json** 
 
     ```json
-    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+    scripts: {
+      "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+    }
+
     ```
 
     - **server.ts**

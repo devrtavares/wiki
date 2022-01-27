@@ -1,6 +1,6 @@
 # typescript 
 
-<sub>[:arrow_upper_left: comandos](commands.md)  --- [:arrow_upper_left: config](config.md)<sub>
+<sub>[:arrow_upper_left: comandos](commands.md)  --- [:arrow_upper_left: --init](config.md)<sub>
 
 ## tsc 
 

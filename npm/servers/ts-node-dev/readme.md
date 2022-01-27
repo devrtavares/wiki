@@ -1,6 +1,6 @@
 # nodejs 
 
-<sub>[:arrow_upper_left: nodejs em módulos](../readme.md) --- [trends](https://openbase.com/js/ts-node-dev) --- [exemplo](exemplo.md)<sub>
+<sub>[:arrow_upper_left: servidores web](../readme.md) --- [trends](https://openbase.com/js/ts-node-dev) --- [exemplo](exemplo.md)<sub>
 
 ## *ts-node-dev*
 
@@ -12,13 +12,17 @@
   ```
 
   - uso
-    ```
+
+    ```json
     ts-node-dev [node-dev|ts-node flags] [ts-node-dev flags] [node cli flags] [--] [script] [script arguments]
     ```
 
-    - exemplo
-      ```
-      dev ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts
+    -  --package.json ***--exemplo***
+      ```json
+      scripts: {
+        "dev" : "dev ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+      }
+
       ```
 
 

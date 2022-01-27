@@ -28,4 +28,3 @@ esbenp.prettier-vscode</sup>
 
 <sup></sup>
 ---
-<image src="../../../imgs/ide-vscode-plugin-eslint.png" height="40" width="190"/>

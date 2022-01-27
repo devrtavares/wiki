@@ -18,7 +18,8 @@
 
 - *package.json - scripts*
     ```json
-    "dev": "node src/server.ts"
+    "dev": "node src/server.ts",
+    "start": "node dist/server.js"
     ```
 
 - *server de exemplo*
