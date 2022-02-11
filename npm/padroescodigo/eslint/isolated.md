@@ -2,9 +2,9 @@
 
 <sub>[:arrow_upper_left: padrões de código](../readme.md) --- [eslint.org](https://eslint.org/)
 
-## eslint 
+## ESLint + typescript 
 
-- **Instalação --- *(extensão para code: [**eslint**](../../../utils/ide/vscode/dbaeumer-vscode-eslint.md))***
+- **Instalação**
     ```
     npm i -D eslint
     ```

@@ -1,8 +1,8 @@
 # javascript
 
-<sub>[:arrow_upper_left:home](../../README.md) --- [javascript](readme.md) --- [padrões de código](../padroescodigo/readme.md) --- [eslint](../padroescodigo/eslint/readme.md) --- [*website: ecma-international.org*](https://www.ecma-international.org/publications-and-standards/standards/)<sub>
+<sub>[:arrow_upper_left:padrões de código](../padroescodigo/readme.md) --[home](../../README.md) --[javascript](readme.md) --[*website: ecma-international.org*](https://www.ecma-international.org/publications-and-standards/standards/)<sub>
 
-- **european computer manufacturers association** <br/> **ECMA** - *Associação Europeia de Fabricantes de Computadores*
+-  **ECMA** - *Associação Europeia de Fabricantes de Computadores* <br/>**european computer manufacturers association** 
 
     - [*cria definição de padrões:*](padroes.md)
         - [***ecma-262*** «--- *reconhecida como* --» ***ES*** : *ecma-script*](https://262.ecma-international.org/12.0/)

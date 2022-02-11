@@ -4,18 +4,20 @@
 
 ### *padrões de código*
 
-- ESLint (*[ECMA-Script](../javascript/ecma.md) - [Lint](lint/about.md)*)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ESLint* <sub>(*--[ECMAScript](../javascript/ecma.md)--[Lint](lint/about.md)*)  *removedor de fiapos baseado em ecma-script*</sub> <br/>
 
-    - [ESLint](eslint/isolated.md)  --- [**ESLint & prettier**](eslint/readme.md) --site --[npm](https://www.npmjs.com/package/eslint) <br/> <sub>&nbsp;&nbsp;&nbsp;&nbsp;removedor de fiapos baseado em ecma-script</sub> <br/> 
+- *Preparação de ambiente EsLint com*
+    - [*typescript*](eslint/isolated.md)
+    - [*prettier*](eslintprettier.md)
+    
+    - [*@angular/cli*](eslintangular.md)
 
-        - [***lint-staged***](../padroescodigo/lint/lint-staged.md) --site --[npm](https://www.npmjs.com/package/lint-staged/v/11.1.1) <br/> <sub>&nbsp;&nbsp;&nbsp;&nbsp;executa a remoção de fiapos apenas nos arquivos de staging (editados e adicionados)</sub>
-        
-        - [**prettier**](prettier/readme.md) --site --[npm](https://www.npmjs.com/package/prettier) <br/> <sub>&nbsp;&nbsp;&nbsp;&nbsp;formatador de código</sub> <br/> 
+- *Plugins*
+    - Visual Studio Code
+        - [ESLint : *dbaeumer.vscode-eslint*](../../utils/ide/vscode/dbaeumer-vscode-eslintc.md)
+        - [Prettier : *esbenp.prettier-vscode*](../../utils/ide/vscode/esbenp-prettier-vscode.md)
 
-        - [**eslint-config-prettier**](eslint-config-prettier/readme.md) --site --[npm](https://www.npmjs.com/package/eslint-config-prettier) <br/> <sub>&nbsp;&nbsp;&nbsp;&nbsp;Evitando conflitos ao trabalhar com ESLint e Prettier</sub> <br/> 
-
-            - [**Exemplo** <br/>&nbsp;&nbsp;&nbsp;&nbsp;*ESLint + lint-staged + prettier + eslint-config-prettier*](eslint-config-prettier/exemplo)
-
+<sub></sub>
 ---
 
 

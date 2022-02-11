@@ -1,8 +1,8 @@
 # windows
 
-<sub>[:arrow_upper_left: windows](../../readme.md) --- [**npm**](../../../../npm/nodejs/run.md) <sub> 
+<sub>[:arrow_upper_left: windows](../../readme.md) --[**npm**](../../../../npm/nodejs/run.md) --[@angular/cli ng](../../../../npm/web/angular/cli/01-basic/ng/serve.md)<sub> 
 
-## execution-policy
+## (*admin*)Powershell : execution-policy
 
 ```powershell
 Get-ExecutionPolicy -List

@@ -1,10 +1,10 @@
 # npm
 
-<sub>[:arrow_upper_left: padrões de código](../readme.md) --- [eslint.org](https://eslint.org/)
+<sub>[:arrow_upper_left: padrões de código](../eslintprettier.md) --- [eslint.org](https://eslint.org/)
 
 ## eslint 
 
-- **Instalação** --- (**ext-vscode-review**: [**eslint**](../../../utils/ide/vscode/dbaeumer-vscode-eslintc.md))
+- **Instalação**
     ```
     npm i -D eslint
     ```

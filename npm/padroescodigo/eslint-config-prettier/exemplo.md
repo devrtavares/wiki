@@ -1,6 +1,6 @@
 # npm
 
-<sub>[:arrow_upper_left: padrões de código](../readme.md)</sub>
+<sub>[:arrow_upper_left: padrões de código](../eslintprettier.md)</sub>
 
 ## resumo :: eslint-config-prettier 
 

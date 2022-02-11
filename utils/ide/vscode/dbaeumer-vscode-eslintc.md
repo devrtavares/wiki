@@ -1,6 +1,6 @@
 # vs-code
 
-<sub>[:arrow_upper_left: vs-code](readme.md) ---[marketplace](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) --- [npm-eslint](../../../npm/padroescodigo/eslint/readme.md)<sub>
+<sub>[:arrow_upper_left: vs-code extenções](vsutils.md) --[padrões de código](../../../npm/padroescodigo/readme.md) ---[marketplace](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)<sub>
 
 ### eslint integrado ao visual studio code
 
